@@ -1,0 +1,43 @@
+/* General */
+* {
+    font-family: "Roboto", sans-serif;
+}
+
+:root {
+    --main-text-color: #343;
+}
+
+title {
+    font-size: 32px;
+}
+
+div {
+    background-color: bisque;
+    min-width: 250px;
+    max-width: 400px;
+    min-height: 100px;
+    max-height: 200px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 20px;
+    border-style: outset;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 16px;
+}
+
+a {
+    color: green;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 50px;
+    border-style: groove;
+}
